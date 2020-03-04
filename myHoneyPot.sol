@@ -1,7 +1,6 @@
 pragma solidity ^0.4.23;
 
 contract HoneyPot {
-
     mapping (address => uint) public balances;
 
     constructor() payable public {
