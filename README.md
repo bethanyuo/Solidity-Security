@@ -1,5 +1,5 @@
 # Solidity Security
-Exercises pertaining to various smart contract vulnerablities.
+Exercises pertaining to various smart contract vulnerabilities.
 
 ## Rentrancy Attacks: HoneyPot
 Reentrancy Attack on a Smart Contract. The goal of this exercise is to get practical skills in writing simple smart contracts in Solidity, publishing and testing contracts in the Remix IDE.
